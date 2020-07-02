@@ -4,8 +4,12 @@
 
 .container2 {
   padding-top: 100px;
-  width: 80%;
-  margin: auto;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.grid-wrapper {
+  padding-left: 20px;
 }
 
 .coverclass {
@@ -19,7 +23,7 @@
 
 .grid-sizer,
 .grid-item {
-  width: 30%;
+  width: 32%;
   margin-bottom: 10px;
 }
 
