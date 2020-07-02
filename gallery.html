@@ -75,7 +75,9 @@
       });
     </script>
     <script>
-      msnry.layout();
+      msnry.imagesLoaded().progress(function () {
+        msnry.masonry("layout");
+      });
     </script>
   </body>
 </html>
