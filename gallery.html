@@ -15,11 +15,33 @@
     <title>Sweet Memories | Gallery</title>
   </head>
   <body>
-    CO TAM ZIOMECZKI
+    <div class="container2">
+      <div class="grid">
+        <div class="grid-sizer"></div>
+        <div class="grid-item">
+          <img src="mgrid/IMG_20151211_235624_resized.jpg" alt="" />
+        </div>
+        <div class="grid-item grid-item--width2">
+          <img src="mgrid/IMG_20160709_115423_resized.jpg" alt="" />
+        </div>
+        <div class="grid-item">
+          <img src="mgrid/IMG_20160813_143709_resized.jpg" alt="" />
+        </div>
+        <div class="grid-item">
+          <img src="mgrid/IMG_20200505_130807_resized.jpg" alt="" />
+        </div>
+        <div class="grid-item grid-item--width2">
+          <img src="mgrid/IMG_20160709_115423_resized.jpg" alt="" />
+        </div>
+        <div class="grid-item">
+          <img src="mgrid/IMG_20200512_101659_resized.jpg" alt="" />
+        </div>
+      </div>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script
+    <!-- <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
       crossorigin="anonymous"
@@ -33,7 +55,7 @@
       src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
       integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
       crossorigin="anonymous"
-    ></script>
+    ></script> -->
     <!-- FontAwesome -->
     <!-- <script
       src="https://kit.fontawesome.com/7583665fdc.js"
@@ -41,5 +63,16 @@
     ></script> -->
     <!-- Masonry Grid -->
     <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <!-- Custom script -->
+    <script>
+      let elem = document.querySelector(".grid");
+      let msnry = new Masonry(elem, {
+        // options
+        itemSelector: ".grid-item",
+        gutter: 10,
+        columnWidth: ".grid-sizer",
+        percentPosition: true,
+      });
+    </script>
   </body>
 </html>
