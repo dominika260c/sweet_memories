@@ -15,20 +15,6 @@
     <title>Sweet Memories | Gallery</title>
   </head>
   <body>
-    <!-- Masonry Grid -->
-    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-    <!-- Custom script - Masonry initializer -->
-    <script>
-      let elem = document.querySelector(".grid");
-      let msnry = new Masonry(elem, {
-        // options
-        itemSelector: ".grid-item",
-        gutter: 10,
-        columnWidth: ".grid-sizer",
-        percentPosition: true,
-      });
-    </script>
-
     <div class="container2">
       <div class="grid">
         <div class="grid-sizer"></div>
@@ -75,7 +61,19 @@
       src="https://kit.fontawesome.com/7583665fdc.js"
       crossorigin="anonymous"
     ></script> -->
-
+    <!-- Masonry Grid -->
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <!-- Custom script - Masonry initializer -->
+    <script>
+      let elem = document.querySelector(".grid");
+      let msnry = new Masonry(elem, {
+        // options
+        itemSelector: ".grid-item",
+        gutter: 10,
+        columnWidth: ".grid-sizer",
+        percentPosition: true,
+      });
+    </script>
     <script>
       msnry.layout();
     </script>
