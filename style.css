@@ -4,18 +4,20 @@
 
 .container2 {
   padding-top: 100px;
-  width: 85%;
+  width: 80%;
   margin: 0 auto;
 }
 
-.grid-wrapper {
-  padding-left: 20px;
-}
+/* .grid-wrapper {
+  width: 100%;
+  position: relative;
+  margin: 0 auto;
+} */
 
-.coverclass {
+/* .coverclass {
   background-image: url(./img/ciasto1.jpg);
   background-position: center;
-}
+} */
 
 .card-img-top {
   height: 300px;
