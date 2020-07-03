@@ -23,11 +23,20 @@
   height: 300px;
 }
 
-.grid-sizer,
+.grid {
+  margin: 0 auto;
+}
+
 .grid-item {
-  width: 32%;
+  width: 480px;
   margin-bottom: 10px;
 }
+
+/* .grid-sizer,
+.grid-item {
+  width: 480px;
+  margin-bottom: 10px;
+} */
 
 img {
   border-radius: 0.25rem;
