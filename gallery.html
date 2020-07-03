@@ -22,26 +22,45 @@
   </head>
 
   <body>
-    <div class="container2">
+    <!-- Header -->
+    <header class="py-5 mt-3 mb-2 coverclass">
+      <div class="container h-100">
+        <div class="row h-100 align-items-center">
+          <div class="col-lg-4 text-center">
+            <img src="./img/logo.png" alt="" />
+          </div>
+          <div class="col-lg-8 text-center">
+            <h1 class="display-4 text-black font-weight-bold mt-5">
+              Sweet Memories
+            </h1>
+            <p class="lead mb-5 text-white-50"></p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Page Content-->
+    <div class="container">
       <div
         class="d-flex flex-row justify-content-between align-items-end flex-wrap"
       >
-        <h1 style="display: inline;" class="align-bottom">Galeria</h1>
+        <h2 class="mb-0">
+          Galeria
+        </h2>
 
-        <img src="./img/logo.png" alt="logo" />
-
-        <a href="/"
-          ><button type="button" class="btn btn-dark mb-2" style="">
+        <a href="./index.html"
+          ><button type="button" class="btn btn-dark" style="">
             ⇦ Powrót
           </button></a
         >
       </div>
       <hr class="mb-4" />
-      <!-- /.row -->
+    </div>
 
+    <div class="container2">
       <div class="grid-wrapper">
         <div class="grid">
-          <!-- <div class="grid-sizer"></div> -->
+          <div class="grid-sizer"></div>
           <div class="grid-item">
             <img
               src="./mgrid/97077052_301644564187707_4728629559761567744_n_resized.jpg"
@@ -695,10 +714,10 @@
           // options
           itemSelector: ".grid-item",
           gutter: 8,
-          // columnWidth: ".grid-sizer",
-          // percentPosition: true,
-          columnWidth: 480,
-          fitWidth: true,
+          columnWidth: ".grid-sizer",
+          percentPosition: true,
+          // columnWidth: 480,
+          // fitWidth: true,
           transitionDuration: "0.2s",
           stagger: 30,
         });

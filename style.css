@@ -3,46 +3,22 @@ body {
   font-family: "Montserrat", "Open Sans", "Arial";
 }
 
+img {
+  border-radius: 0.25rem;
+  max-width: 100%;
+}
+
 .container2 {
-  padding-top: 100px;
   width: 80%;
   margin: 0 auto;
 }
-
-/* .grid-wrapper {
-  width: 100%;
-  position: relative;
-  margin: 0 auto;
-} */
-
-/* .coverclass {
-  background-image: url(./img/ciasto1.jpg);
-  background-position: center;
-} */
 
 .card-img-top {
   height: 300px;
 }
 
-.grid {
-  margin: 0 auto;
-}
-
+.grid-sizer,
 .grid-item {
-  width: 480px;
+  width: 31%;
   margin-bottom: 10px;
 }
-
-/* .grid-sizer,
-.grid-item {
-  width: 480px;
-  margin-bottom: 10px;
-} */
-
-img {
-  border-radius: 0.25rem;
-  max-width: 100%;
-}
-/* .grid-item--width2 {
-  width: 400px;
-} */
