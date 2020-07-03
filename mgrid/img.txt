@@ -1,103 +1,66 @@
-<div class="grid-item"><img src="97077052_301644564187707_4728629559761567744_n_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20151211_235624_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20160709_115423_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20160813_143709_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20160813_143752_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20160813_143818_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20160903_111308_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20160903_111334_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170413_103608_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170413_103636_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170526_130340_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170526_130437_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170527_132656_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170527_132706_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170527_132749_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170527_132754_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170622_160025_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170703_151302_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170806_110046_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170808_162932_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170819_082403_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170819_082429_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20170819_082449_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20180721_103650_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20180721_103802_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20180721_103838_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200306_145117_705_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200502_103112_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200502_103120_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_164331_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_180818_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_181554_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_181703_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_181845_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_182039_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_182221_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_182439_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_182550_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_182822_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_182946_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_214313_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_214636_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200503_214857_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200504_145158_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200504_145350_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200504_145535_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_091932_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_091945_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_092029_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_103248_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_103253_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_103307_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_103333_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_103359_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_105257_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_122856_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_123350_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_123504_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_123604_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_123739_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_124006_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_124431_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_124614_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_124848_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_125122_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_125229_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_125354_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_125534_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_125732_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_125850_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_130807_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200505_131032_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105351_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105436_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105456_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105502_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105514_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105534_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105604_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105618_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105626_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105634_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105648_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105650_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105704_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_105722_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_110234_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_110300_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_110347_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200509_110418_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200512_101659_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200614_070701_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200702_122309_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200702_123337_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200702_123426_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200702_123606_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200702_123810_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200702_124108_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200702_124433_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200702_124516_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="IMG_20200702_124615_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="Screenshot_20200503_181945_resized.jpg" alt="cake image" /></div>
-<div class="grid-item"><img src="Tło_resized.jpg" alt="cake image" /></div>
+<div class="grid-item"><img src="./mgrid/97077052_301644564187707_4728629559761567744_n_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20151211_235624_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20160709_115423_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20160813_143709_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20160813_143752_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20160903_111308_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20160903_111334_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20170413_103608_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20170413_103636_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20170526_130437_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20170527_132656_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20170527_132706_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20170808_162932_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20170819_082403_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20170819_082449_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200306_145117_705_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_164331_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_180818_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_181554_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_181703_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_181845_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_182039_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_182439_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_182550_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_182822_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_182946_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_214313_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_214636_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_214857 (2)_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200503_214857_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200504_145158_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200504_145350_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200504_145535_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_103333_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_103359_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_105257_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_123350_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_123504_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_123604_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_123739_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_124006_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_124431_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_124614_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_124848_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_125354_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_125534_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_125732_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_125850_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_130807_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200505_131032_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200509_105436_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200509_105648_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200509_110418_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200512_101659_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200614_070701_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200702_122309_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200702_123337_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200702_123426_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200702_123606_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200702_123810_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200702_124108_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200702_124433_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200702_124516_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/IMG_20200702_124615_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/Screenshot_20200503_181945_resized.jpg" alt="cake image"/></div>
+<div class="grid-item"><img src="./mgrid/Tło_resized.jpg" alt="cake image"/></div>
