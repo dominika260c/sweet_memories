@@ -20,10 +20,10 @@ img {
   margin: 0 auto;
 }
 
-@media only screen and (max-width: 1450px) {
-  .container2 {
-    width: 95%;
-    margin: 0 auto;
+@media only screen and (max-width: 1200px) {
+  .grid-item {
+    width: 30%;
+    margin-bottom: 10px;
   }
 }
 
