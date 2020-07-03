@@ -20,10 +20,13 @@ img {
   margin: 0 auto;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1000px) {
   .grid-item {
     width: 30%;
     margin-bottom: 10px;
+  }
+  .smartphone-disabled {
+    display: none;
   }
 }
 
