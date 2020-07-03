@@ -20,21 +20,6 @@ img {
   margin: 0 auto;
 }
 
-@media only screen and (max-width: 1000px) {
-  .container2 {
-    width: 98%;
-    margin: 0 auto;
-  }
-  .grid-sizer,
-  .grid-item {
-    width: 28%;
-    margin-bottom: 10px;
-  }
-  .smartphone-disabled {
-    display: none;
-  }
-}
-
 .card-img-top {
   height: 300px;
 }
@@ -43,4 +28,19 @@ img {
 .grid-item {
   width: 32%;
   margin-bottom: 10px;
+}
+
+@media (max-width: 1000px) {
+  .container2 {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .grid-sizer,
+  .grid-item {
+    width: 46%;
+    margin-bottom: 10px;
+  }
+  .smartphone-disabled {
+    display: none;
+  }
 }
