@@ -22,12 +22,12 @@ img {
 
 @media only screen and (max-width: 1000px) {
   .container2 {
-    width: 95%;
+    width: 98%;
     margin: 0 auto;
   }
   .grid-sizer,
   .grid-item {
-    width: 30%;
+    width: 28%;
     margin-bottom: 10px;
   }
   .smartphone-disabled {
