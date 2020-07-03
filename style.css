@@ -3,6 +3,12 @@ body {
   font-family: "Montserrat", "Open Sans", "Arial";
 }
 
+h1,
+h2,
+h3 {
+  font-family: "Dancing Script", "Open Sans", "Arial";
+}
+
 img {
   border-radius: 0.25rem;
   max-width: 100%;
