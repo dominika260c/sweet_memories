@@ -57,26 +57,67 @@
     </nav> -->
 
   <!-- Header -->
-  <header class="py-5 mt-3 mb-2 coverclass">
+  <header class="py-3 mt-3 mb-3 coverclass">
     <div class="container h-100">
-      <div class="row h-100 align-items-center">
+      <div class="row h-100 align-items-center justify-content-center">
         <div class="col-lg-4 text-center">
           <img src="./img/logo.png" alt="">
-        </div>
-        <div class="col-lg-8 text-center">
-          <h1 class="display-4 text-black font-weight-bold mt-3 smartphone-disabled">
-            Sweet Memories
-          </h1>
         </div>
       </div>
     </div>
   </header>
+  <!-- Buttons -->
+  <section class="py-3 mt-3 mb-3 coverclass">
+    <div class="container h-100">
+      <div class="row h-100 align-items-center justify-content-around">
+        <div class="col-lg-6 text-center">
+          <a href="./gallery.html"><button type="button" class="btn btn-lg btn-primary mb-2">
+              <h2>Galeria</h2>
+            </button></a>
+        </div>
+        <div class="col-lg-6 text-center">
+          <a href="./pricing.html"><button type="button" class="btn btn-lg btn-primary mb-2">Cennik</button></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Carousel -->
+  <section>
+    <div id=myCarousel class="carousel slide" data-ride=carousel>
+      <ol class=carousel-indicators>
+        <li data-target=#myCarousel data-slide-to=0 class=active></li>
+        <li data-target=#myCarousel data-slide-to=1></li>
+        <li data-target=#myCarousel data-slide-to=2></li>
+      </ol>
+      <div class=carousel-inner>
+        <div class="carousel-item active">
+          <img src="./mgrid/IMG_20200503_181554_resized.jpg" alt="cake photo">
+        </div>
+        <div class="carousel-item sf-hidden">
+          <img src="./mgrid/IMG_20200503_182822_resized.jpg" alt="cake photo">
+        </div>
+        <div class="carousel-item sf-hidden">
+          <img src="./mgrid/IMG_20200503_214313_resized.jpg" alt="cake photo">
+        </div>
+      </div>
+      <a class=carousel-control-prev href=#myCarousel role=button data-slide=prev>
+        <span class=carousel-control-prev-icon aria-hidden=true></span>
+        <span class=sr-only>Previous</span>
+      </a>
+      <a class=carousel-control-next href=#myCarousel role=button data-slide=next>
+        <span class=carousel-control-next-icon aria-hidden=true></span>
+        <span class=sr-only>Next</span>
+      </a>
+    </div>
+  </section>
+
 
   <!-- Page Content -->
   <div class="container">
     <div class="row">
-      <div class="col-md-8 mb-5">
-        <h2>Słodkości warte wspomnień</h2>
+      <div class="col-md-8 mb-2">
+        <h1>Słodkości warte wspomnień</h1>
         <hr />
         <p>
           Czy wiesz ze ludzki mózg ma niepowtarzalna zdolność zapamiętywania
@@ -103,11 +144,12 @@
         </p>
         <!-- <a class="btn btn-primary btn-lg" href="#">Call to Action &raquo;</a> -->
       </div>
-      <div class="col-md-4 mb-5">
-        <h2>Kontakt &nbsp;
+      <div class="col-md-4 mb-2">
+        <h1>Kontakt &nbsp;
           <a href="https://www.instagram.com/dominika260c/" target="_blank"><i class="fab fa-instagram fa-lg"></i></a>
-        <a href="https://www.facebook.com/dominika.zieba.7" target="_blank"><i class="fab fa-facebook-square fa-lg"></i></a>
-        </h2>
+          <a href="https://www.facebook.com/dominika.zieba.7" target="_blank"><i
+              class="fab fa-facebook-square fa-lg"></i></a>
+        </h1>
         <hr />
         <address>
           <strong>Dominika Zięba</strong>
@@ -120,13 +162,21 @@
           <abbr title="Email"><i class="far fa-envelope"></i></abbr>
           <a href="mailto:#">dominika260c@interia.pl</a>
         </address>
-        <br />
-        <a href="./gallery.html"><button type="button" class="btn btn-dark mb-2">Galeria</button></a>
-        <a href="./pricing.html"><button type="button" class="btn btn-dark mb-2">Przykładowy Cennik</button></a>
-        <br />
 
       </div>
     </div>
+
+    <!-- Offert -->
+    <section class="mt-3 mb-4 coverclass">
+      <div class="container h-100">
+        <div class="row h-100 align-items-center justify-content-center">
+          <div class="col-lg-4 text-center">
+            <h1>Oferta</h1>
+          </div>
+        </div>
+      </div>
+      <hr>
+    </section>
 
     <!-- cards -->
     <!-- /.row -->
@@ -147,16 +197,13 @@
       </div>
 
       <div class="col-md-4 mb-5">
-        <div class="card h-100">
+        <div class="card h-80">
           <img class="card-img-top" src="./img/chocolate.jpg" alt="" />
           <div class="card-body">
             <h4 class="card-title">Czekoladowy</h4>
             <p class="card-text">
               Mmm milka, wedel
             </p>
-          </div>
-          <div class="card-footer">
-            <!-- <a href="#" class="btn btn-primary">Find Out More!</a> -->
           </div>
         </div>
       </div>
@@ -169,9 +216,7 @@
               Stwórz swój ideał
             </p>
           </div>
-          <div class="card-footer">
-            <!-- <a href="#" class="btn btn-primary">Find Out More!</a> -->
-          </div>
+
         </div>
       </div>
     </div>
@@ -277,13 +322,12 @@
   <!-- /.container -->
 
   <!-- Footer -->
-  <footer class="py-5 bg-dark">
+  <footer class="py-4 bg-secondary">
     <div class="container">
       <p class="m-0 text-center text-white">
         Copyright &copy; Sweet Memories 2020
       </p>
     </div>
-    <!-- /.container -->
   </footer>
 
   <!-- Optional JavaScript -->
