@@ -6,7 +6,8 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+li {
   font-family: "Dancing Script", "Open Sans", "Arial";
 }
 
@@ -20,8 +21,8 @@ img {
   margin: 0 auto;
 }
 
-.card-img-top {
-  height: 470px;
+.card-img-left {
+  height: 400px;
 }
 
 .grid-sizer,
@@ -31,7 +32,7 @@ img {
 }
 
 p.card-text {
-  height: 120px;
+  /* height: 120px; */
 }
 
 /* .card:hover {
@@ -91,4 +92,9 @@ p.card-text {
     font-size: 1.25rem;
     line-height: 1.4;
   }
+}
+
+nav li {
+  font-size: 175%;
+  padding: 0px 12px;
 }
