@@ -7,7 +7,10 @@ body {
 h1,
 h2,
 h3,
-li {
+h4,
+h5,
+li,
+button {
   font-family: "Dancing Script", "Open Sans", "Arial";
 }
 
@@ -23,6 +26,11 @@ img {
 
 .card-img-left {
   height: 400px;
+}
+
+.card-img-mini {
+  margin: auto;
+  max-width: 40%;
 }
 
 .grid-sizer,
@@ -68,6 +76,23 @@ p.card-text {
   border-radius: 0px;
 }
 
+nav li {
+  font-size: 175%;
+  padding: 0px 12px;
+}
+
+.btn {
+  font-size: 125%;
+}
+
+.full-card {
+  display: block !important;
+}
+
+.mini-card {
+  display: none !important;
+}
+
 /* @MEDIA */
 
 @media (max-width: 1000px) {
@@ -83,6 +108,18 @@ p.card-text {
   .smartphone-disabled {
     display: none;
   }
+
+  .full-card {
+    display: none !important;
+  }
+
+  .mini-card {
+    display: block !important;
+  }
+
+  #myCarousel {
+    display: none;
+  }
 }
 
 @media (min-width: 40em) {
@@ -92,9 +129,4 @@ p.card-text {
     font-size: 1.25rem;
     line-height: 1.4;
   }
-}
-
-nav li {
-  font-size: 175%;
-  padding: 0px 12px;
 }
