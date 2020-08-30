@@ -86,7 +86,7 @@ nav li {
 }
 
 .btn {
-  font-size: 125%;
+  font-size: 200%;
 }
 
 .full-card {
@@ -95,6 +95,15 @@ nav li {
 
 .mini-card {
   display: none !important;
+}
+
+.btn-lrg {
+  font-size: 175%;
+}
+
+.logo-img img {
+  text-align: start;
+  max-width: 225%;
 }
 
 /* @MEDIA */

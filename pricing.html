@@ -32,54 +32,66 @@
 
   <body>
     <!-- Header -->
-    <header class="py-3 mt-3 mb-3 coverclass">
-      <div class="container h-100">
-        <div class="row h-100 align-items-center justify-content-center">
-          <div class="col-lg-4 text-center">
-            <img src="./img/logo.png" alt="" />
-          </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5">
+          <!-- Logo -->
+          <header class="py-3 mt-3 mb-3 coverclass">
+            <div class="container h-100">
+              <div class="row align-items-center justify-content-start">
+                <div class="col-lg-4 text-center logo-img">
+                  <img src="./img/logo.png" width="300" alt="" />
+                </div>
+              </div>
+            </div>
+          </header>
         </div>
-      </div>
-    </header>
+        <div class="col-md-7 d-flex justify-content-start">
+          <!-- Navigation -->
 
-    <!-- Page Content -->
-
-    <!-- Navigation -->
-
-    <nav class="navbar navbar-expand-lg bg-transparent navbar-light bg-light">
-      <div class="container justify-content-center">
-        <div class="row justify-content-center">
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
+          <nav
+            class="navbar navbar-expand-lg bg-transparent navbar-light bg-light"
           >
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-              <li class="nav-item">
-                <a class="nav-link" href="./index.html">Strona Główna</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="./gallery.html">Galeria</a>
-              </li>
-              <li class="nav-item active">
-                <a class="nav-link" href="./pricing.html"
-                  >Cennik<span class="sr-only">(current)</span></a
+            <div class="container justify-content-center">
+              <div class="row justify-content-center">
+                <button
+                  class="navbar-toggler"
+                  type="button"
+                  data-toggle="collapse"
+                  data-target="#navbarSupportedContent"
+                  aria-controls="navbarSupportedContent"
+                  aria-expanded="false"
+                  aria-label="Toggle navigation"
                 >
-              </li>
-            </ul>
-          </div>
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div
+                  class="collapse navbar-collapse"
+                  id="navbarSupportedContent"
+                >
+                  <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                      <a class="nav-link" href="./index.html">Strona Główna</a>
+                    </li>
+
+                    <li class="nav-item">
+                      <a class="nav-link" href="./gallery.html">Galeria</a>
+                    </li>
+
+                    <li class="nav-item active">
+                      <a class="nav-link" href="./pricing.html"
+                        >Cennik<span class="sr-only">(current)</span></a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </nav>
         </div>
       </div>
-    </nav>
-
+    </div>
     <!-- container -->
     <div class="container">
       <div
