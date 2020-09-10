@@ -106,6 +106,14 @@ nav li {
   max-width: 225%;
 }
 
+p a {
+  color: #000;
+}
+
+p a:hover {
+  color: #888;
+}
+
 /* @MEDIA */
 
 @media (max-width: 1000px) {
