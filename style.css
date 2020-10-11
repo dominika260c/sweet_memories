@@ -2,6 +2,7 @@ body {
   box-sizing: border-box;
   font-family: "Montserrat", "Open Sans", "Arial";
   background-color: #ffe5e5;
+  /* background-color: #e61c66; */
 }
 
 h1,
@@ -11,7 +12,8 @@ h4,
 h5,
 li,
 button {
-  font-family: "Dancing Script", "Open Sans", "Arial";
+  font-family: "Great Vibes", cursive;
+  /* font-family: "Dancing Script", "Open Sans", "Arial"; */
 }
 
 img {
